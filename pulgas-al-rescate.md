@@ -10,7 +10,7 @@ Los perros dominaban a los hombres y, ¿quién quería tener a un humano de masc
 
 En un callejón de la ciudad, en la profunda cabellera tupida de un mendigo que rebuscaba entre la basura, una pulga soñó que era un hombre. "Las cosas pequeñas no sueñan", pero Nano lo había hecho. Vim, su primo, llegó en ese preciso instante jadeante con el torax en el cuello.
 
-[**VIM:** Tu padre... Tu padre Bash, no se que ha pasado pero un mensajero ha venido desde la ceja izquierda exigiendo que vayas a verlo.](?vim)
+[<hr />**VIM:** Tu padre... Tu padre Bash, no se que ha pasado pero un mensajero ha venido desde la ceja izquierda exigiendo que vayas a verlo.<hr />](?vim)
 
 - [Le preguntó a Vim que ocurrió.](?!vim#vim)
 - [Emprendió el viaje.](/ceja?vim)
