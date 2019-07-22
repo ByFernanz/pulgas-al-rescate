@@ -1,0 +1,37 @@
+@import "fonts.css";
+
+#main{
+	font-family:'Merriweather',serif;color:#000;
+	width: 90%;
+	margin: auto;	
+}
+#main h1{
+	font-weight:700;font-size:250%;margin-top:15px;text-align: center;
+}
+#main h2{
+	font-weight:700;font-size:125%;border-bottom: 1px solid #000; margin-top: 5%;
+}
+#main h1,#main h2,#main p,#main ul{
+	margin-bottom:15px
+}
+#main p{
+	text-align: justify;
+}
+#main em{
+	font-style:italic
+}
+#main strong{
+	font-weight:700
+}
+#main a{
+	#0000FF;text-decoration:underline;
+}
+#main a:hover{
+	color:#f00
+}
+#main a.disabled,#main a.disabled:hover{
+	color: #999;cursor: not-allowed;
+}
+#main a.disabled.chosen,#main a.disabled:hover.chosen{
+	color: #000;
+}
