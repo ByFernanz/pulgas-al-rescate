@@ -12,7 +12,7 @@ $.get('story.md', function(data){
 		//4) Texto que será mostrado al terminar el juego.
 		//5)El penúltimo parámetro es para activar el scroll (true o false).
 		//6)El último parámetro es para activar el modo de depuración (true o false).
-        player = new Player(story, 'main','<br><center>COMENZAR A JUGAR</center>','## FIN\n\nEl juego ha terminado.', false, false);
+        player = new Player(story, 'gamecontent','<br><center>COMENZAR A JUGAR</center>','## FIN\n\nEl juego ha terminado.', false, false);
         player.play();
 
       }, 'text');

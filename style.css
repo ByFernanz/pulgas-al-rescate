@@ -49,7 +49,7 @@ ul{
 	padding-left: 0;
 }
 
-#main{
+#gamecontent{
 	font-family:'Merriweather',serif;color:#000;
 	width: 90%;
 	margin: auto;	
@@ -57,41 +57,41 @@ ul{
 	opacity: 1;
 	font-size:130%;
 }
-#main h1{
+#gamecontent h1{
 	font-weight:700;font-size:250%;margin-top:15px;text-align: center;
 }
-#main h2{
+#gamecontent h2{
 	font-weight:700;font-size:125%;border-bottom: 1px solid #000; margin-top: 5%;
 }
-#main h1,#main h2,#main p,#main ul{
+#gamecontent h1,#gamecontent h2,#gamecontent p,#gamecontent ul{
 	margin-bottom:15px
 }
-#main p{
+#gamecontent p{
 	text-align: justify;
 	 max-width: 99%;
 }
-#main em{
+#gamecontent em{
 	font-style:italic
 }
-#main strong{
+#gamecontent strong{
 	font-weight:700
 }
-#main a{
+#gamecontent a{
 text-decoration:none;
 font-weight: 500;
 }
-#main a:hover{
+#gamecontent a:hover{
 	color:#f00
 }
-#main a.disabled,#main a.disabled:hover{
+#gamecontent a.disabled,#gamecontent a.disabled:hover{
 	color: #999;cursor: not-allowed;
 }
-#main a.disabled.chosen,#main a.disabled:hover.chosen{
+#gamecontent a.disabled.chosen,#gamecontent a.disabled:hover.chosen{
 	color: #000;
 	text-decoration:underline;
 }
 }
-#main hr{margin-top: 0;margin-bottom: 0;}
+#gamecontent hr{margin-top: 0;margin-bottom: 0;}
 
 .debug{
 	display: block;
@@ -115,7 +115,7 @@ font-weight: 500;
     margin-left:auto;
 }
 
-#main .titulo-debug{
+#gamecontent .titulo-debug{
 display: flex;
 justify-content: center; /* align horizontal */
 align-items: center; 
@@ -194,7 +194,7 @@ height:3%;
     right: 0;
     bottom: 0;	
 }
-#main .debug ul{
+#gamecontent .debug ul{
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
